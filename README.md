@@ -1,4 +1,4 @@
-# 2015 Jupyter Notebook Survey
+# Analysing Jupyter Notebook 2015 Survey Responses
 
 Jupyter Notebook is a flexible web app that allows you to compute data, write various programming languages, plain text, equations, markdown, etc. For my first data analysis project, I explored the responses from a 2015 Jupyter Notebook survey organised by Project Jupyter. You will find the dataset [here](https://www.kaggle.com/datasets/kaggle/2015-notebook-ux-survey).
 
